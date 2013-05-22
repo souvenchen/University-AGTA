@@ -1,6 +1,6 @@
-# Algorithmic Game Theory and Applications
+# Algorithmic Game Theory and its Applications
 
-This repository contains my coursework for the 5th Year [Algorithmic Game Theory and Applications](http://www.inf.ed.ac.uk/teaching/courses/agta/) course, taken in 2012/2013. There were two pieces of coursework for the AGTA course, both containing sets of game theory problems to be solved.
+This repository contains my coursework for the 5th Year [Algorithmic Game Theory and its Applications](http://www.inf.ed.ac.uk/teaching/courses/agta/) course, taken in 2012/2013. There were two pieces of coursework for the AGTA course, both containing sets of game theory problems to be solved.
 
 Coursework for other courses can be found in my main [University Coursework](https://github.com/stephenmcgruer/University) repository.
 
